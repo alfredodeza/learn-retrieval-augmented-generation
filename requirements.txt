@@ -1,0 +1,6 @@
+pandas==2.2.0
+ipykernel==6.29.0
+ipywidgets==8.1.1
+qdrant-client==1.7.2
+sentence-transformers==2.3.1
+openai==1.11.1
