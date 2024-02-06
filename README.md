@@ -29,7 +29,7 @@ Here is a summary of what this repository will use:
 
 **Use Llamafile for a full RAG and LLM setup**
 
-The examples for the [Applied Rag notebook](./examples/3-applied-rag/embeddings.ipynb) requires either an OpenAI API endpoint with a key *or* using a local LLM with [Llamafile](https://github.com/Mozilla-Ocho/llamafile). 
+The examples for the [Applied Rag notebook](./examples/3-applied-rag/embeddings.ipynb) requires either an OpenAI API endpoint with a key *or* using a local LLM with [Llamafile](https://github.com/Mozilla-Ocho/llamafile).
 
 I recommend using the [Phi-2 model](https://github.com/Mozilla-Ocho/llamafile?tab=readme-ov-file#other-example-llamafiles) which is about 2GB in size. You can download the model from the Llamafile repository and run it in your system:
 
@@ -73,3 +73,30 @@ Notebook: [Applied Rag Notebook](./examples/3-applied-rag/embeddings.ipynb)
 ## Lesson 4: Practice Lab
 
 Use the [included practice lab](./lab.md) to apply the content you've learned in this week. Follow the steps to create your own repository and apply the requirements to complete the lab.
+
+
+## Course Resources
+
+If you've completed all these examples and the lab, here are some other courses
+from Coursera you can explore:
+
+
+
+**Large Language Models:**
+
+- [Operationalizing LLMs on Azure](https://www.coursera.org/learn/llmops-azure)
+- [Using Databricks with
+  LLMs](https://www.coursera.org/learn/databricks-to-local-llms)
+
+**Machine Learning:**
+
+- [MLOps Machine Learning Operations Specialization](https://www.coursera.org/specializations/mlops-machine-learning-duke)
+- [Open Source Platforms for MLOps](https://www.coursera.org/learn/open-source-platforms-duke)
+- [Python Essentials for MLOps](https://www.coursera.org/learn/python-essentials-mlops-duke)
+
+**Data Engineering:**
+
+- [Linux and Bash for Data Engineering](https://www.coursera.org/learn/linux-and-bash-for-data-engineering-duke)
+- [Web Applications and Command-Line tools for Data Engineering](https://www.coursera.org/learn/web-app-command-line-tools-for-data-engineering-duke)
+- [Python and Pandas for Data Engineering](https://www.coursera.org/learn/python-and-pandas-for-data-engineering-duke)
+- [Scripting with Python and SQL for Data Engineering](https://www.coursera.org/learn/scripting-with-python-sql-for-data-engineering-duke)
