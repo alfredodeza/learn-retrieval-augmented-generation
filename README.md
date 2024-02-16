@@ -33,7 +33,7 @@ The examples for the [Applied Rag notebook](./examples/3-applied-rag/embeddings.
 
 I recommend using the [Phi-2 model](https://github.com/Mozilla-Ocho/llamafile?tab=readme-ov-file#other-example-llamafiles) which is about 2GB in size. You can download the model from the Llamafile repository and run it in your system:
 
-Once you have it running you can connect to it with Python or use the [./examples/3-applied-rag/embeddings.ipynb](Applied Rag Notebook). Here is a quick example of how to use the Llamafile with Python:
+Once you have it running you can connect to it with Python or use the [Applied Rag Notebook](./examples/3-applied-rag/embeddings.ipynb). Here is a quick example of how to use the Llamafile with Python:
 
 ```python
 #!/usr/bin/env python3
