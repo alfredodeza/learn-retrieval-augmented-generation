@@ -3,5 +3,6 @@ ipykernel
 ipywidgets
 # Non-coursera version qdrant-client==1.7.2
 qdrant-client==1.4.0
-sentence-transformers==2.3.1
+# Non-coursera version sentence-transformers==2.3.1
+sentence-transformers==2.2.2
 openai==1.11.1
