@@ -2,7 +2,7 @@ pandas==1.3.5
 ipykernel
 ipywidgets
 # Non-coursera version qdrant-client==1.7.2
-qdrant-client==1.4.0
+qdrant-client==1.9.0
 # Non-coursera version sentence-transformers==2.3.1
 sentence-transformers==2.2.2
 openai==1.11.1
