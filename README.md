@@ -8,7 +8,7 @@ which can run in-memory.
 ## Setup your environment
 
 This example can run in Codespaces but you can use the following if you are
-cloniing this repository:
+cloning this repository:
 
 **Install the dependencies**
 
