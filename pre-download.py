@@ -1,4 +1,15 @@
-# A file to make it easy to pre-download the Sentence Transformer model in Coursera Labs. It doesn't do anything other than
-# to run the sentence transformer so that it can pre-download the model in the lab
+"""Pre-download the Sentence Transformer model used by the notebooks."""
+
 from sentence_transformers import SentenceTransformer
-SentenceTransformer('all-MiniLM-L6-v2') # Model to create embeddings
+
+MODEL_NAME = "all-MiniLM-L6-v2"
+
+
+def main() -> None:
+    """Download the embedding model used throughout the examples."""
+    SentenceTransformer(MODEL_NAME)
+    print(f"Downloaded Sentence Transformer model: {MODEL_NAME}")
+
+
+if __name__ == "__main__":
+    main()
